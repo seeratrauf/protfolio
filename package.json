@@ -1,0 +1,9 @@
+{
+  "name": "seerat-rauf-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Seerat Rauf - Software Developer Portfolio Website",
+  "scripts": {
+    "build": "echo Static build ready"
+  }
+}
